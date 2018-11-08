@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projeto_a21602418</string>
+    <string name="radioButtonCilindrada1">até 1.250</string>
+    <string name="radioButtonCilindrada2">mais de 1.250 até 1750</string>
+    <string name="radioButtonCilindrada3">mais de 1.750 até 2.500</string>
+    <string name="radioButtonCilindrada4">mais de 2.500</string>
+    <string name="radioButtonCO21">até 120</string>
+    <string name="radioButtonCO22">mais de 120 até 180</string>
+    <string name="radioButtonCO23">mais de 180 até 250</string>
+    <string name="radioButtonCO24">mais de 250</string>
+    <string name="textViewCilindrada">Cilindrada</string>
+    <string name="textViewCO2">CO2</string>
+    <string name="buttonCalcularIUC">Calcular IUC</string>
+</resources>
